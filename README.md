@@ -7,6 +7,6 @@ Clone this repo into your machine to start using this script.
 Run ./colouruser --help or bash colouruser -h to display help page on how to use the script
 
 ## Credits
-Exclusivlely to google, stackoverflow, askubuntu
+Credits goes to google, stackoverflow, askubuntu
 
 Written by kyilax
