@@ -9,4 +9,4 @@ Run ./colouruser --help or bash colouruser -h to display help page on how to use
 ## Credits
 Credits goes to google, stackoverflow, askubuntu
 
-Written by kyilax
+Written by <a href="https://github.com/kyilax/">Kyilax</a>
