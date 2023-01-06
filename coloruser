@@ -7,11 +7,7 @@ echo -e "
 
 \e[0m*****
 *****
-
-\e[1;33mRun chmod U+x coloruser
-\e[0m------
-\e[1;31mthen execute the script 
-\e[0m-----
+Run on your command line
 \e[1;33m./coloruser
 
 \e[0m
