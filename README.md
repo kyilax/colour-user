@@ -1,5 +1,5 @@
 # COLOUR USER
-This scripts prints the current username of a machine in colors
+This scripts prints the current username of your machine in colors
 
 ## Usage
 Clone this repo into your machine to start using this script.
